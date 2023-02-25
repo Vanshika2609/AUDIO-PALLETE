@@ -1,0 +1,10 @@
+html {
+  /* background: linear-gradient(to bottom right, #B295E0, #F193D2, #FF99B3, #FFD270);
+  background-attachment: fixed;
+  color: white; */
+
+  background: black;
+  background-image: radial-gradient(circle at left, #9d2951 10%, #431d71 25%, #321754 40%, black 70%);
+  background-size: auto 700px;
+  background-attachment: fixed;
+}
