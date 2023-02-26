@@ -1,7 +1,7 @@
 ## Audio Palette
 This is a web application used to provide a comprehensive outlook on your music taste via Spotify. 
 
-#About
+# About
 This application displays the top tracks, albums and artists of the user on spotify.
 
 # Description
